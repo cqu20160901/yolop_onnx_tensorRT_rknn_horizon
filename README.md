@@ -12,7 +12,7 @@ yolop_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rknn转
 
 # 测试结果
 
-![image](https://github.com/cqu20160901/yolov7_caffe_onnx_tensorRT_rknn)
+![image](https://github.com/cqu20160901/yolop_onnx_tensorRT_rknn/blob/main/yolop_onnx/onnx_result.jpg)
 
 说明：Focus层用一个卷积层进行了替换，激活函数 Hardswish 用Relu进行了替换。
 
