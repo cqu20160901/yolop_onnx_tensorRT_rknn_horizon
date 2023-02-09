@@ -10,6 +10,8 @@ yolop_TensorRT：TensorRT版本模型、测试图像、测试结果、测试demo
 
 yolop_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rknn转换测试脚本
 
+[onnx 模型路径](https://github.com/cqu20160901/yolop_onnx_tensorRT_rknn/releases/tag/v1.0.0)
+
 # 测试结果
 
 ![image](https://github.com/cqu20160901/yolop_onnx_tensorRT_rknn/blob/main/yolop_onnx/onnx_result.jpg)
